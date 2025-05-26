@@ -1,4 +1,4 @@
-# 🇺🇸 USA Weather Dashboard
+# USA Weather Dashboard
 
 Welcome to the **USA Weather Dashboard** — an interactive, sleek, and dark-themed dashboard showing **real-time weather** and **historical temperature trends** for major US cities!
 
